@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:white
+}
+.header_container{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    align-items: center;
+    width: 90vw;
+    height: auto;
+    /* border: 2px solid #000; */
+    margin: 50px auto;
+    margin: 50px 40px 25px;
+    margin-top: 60px;
+    border-radius: 30px;
+  background-color: bisque;
+
+  
+}
+
+.class{
+  
+}
+
+
