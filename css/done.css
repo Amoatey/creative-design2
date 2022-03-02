@@ -5,6 +5,8 @@
 body{
     background-color:white
 }
+
+
 .header_container{
      display: flex;
     justify-content: center;
@@ -15,8 +17,8 @@ body{
     /* border: 2px solid #000; */
     margin: 50px auto;
     margin: 50px 40px 25px;
-    margin-top: 75px;
-    border-radius: 50px;
+    margin-top: 60px;
+    border-radius: 30px;
   background-color: bisque;
 
   
